@@ -25,7 +25,7 @@ This project details the development of a Java-based activity and project manage
 ### Directory Structure
 
 ```
-my_java_project/
+project_root/
 └── src/
     └── ssk/
         ├── activity/
